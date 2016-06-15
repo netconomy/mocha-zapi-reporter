@@ -1,6 +1,6 @@
 {
   "name": "mocha-zapi-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mocha REST calls for Zephyr tests",
   "main": "lib/mocha-zapi-reporter.js",
   "keywords": [
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "ssh://git@stash.netconomy.net:7999/tls/selenium-webdriver-testing.git"
+    "url": "git+https://github.com/schroecm/mocha-zapi-reporter.git"
   },
   "devDependencies": {
     "mocha": "^2.3.4"
