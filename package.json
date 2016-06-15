@@ -13,6 +13,10 @@
     "name": "m.schroeck@netconomy.net"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@stash.netconomy.net:7999/tls/selenium-webdriver-testing.git"
+  },
   "devDependencies": {
     "mocha": "^2.3.4"
   },
