@@ -1,0 +1,23 @@
+{
+  "name": "mocha-zapi-reporter",
+  "version": "1.0.0",
+  "description": "Mocha REST calls for Zephyr tests",
+  "main": "lib/mocha-zapi-reporter.js",
+  "keywords": [
+    "zapi",
+    "jira",
+    "mocha",
+    "reporter"
+  ],
+  "author": {
+    "name": "m.schroeck@netconomy.net"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "node-rest-client": "^1.4.3",
+    "underscore": "^1.7.0"
+  }
+}
